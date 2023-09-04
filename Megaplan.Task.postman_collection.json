@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "get access_token",
+			"name": "get access",
 			"event": [
 				{
 					"listen": "test",
