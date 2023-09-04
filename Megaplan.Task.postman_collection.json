@@ -10,7 +10,7 @@
 			"name": "get access",
 			"event": [
 				{
-					"listen": "test",
+					"listen": "test_test",
 					"script": {
 						"exec": [
 							"var jsonData = pm.response.json();\r",
